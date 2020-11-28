@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bfecdf9-17ad-443d-b02d-5a0b2ee00979" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kBwa75fjfULPxFwvE517tATtp1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/softuni/library/models/entities" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="softuni.library.models.dtos.xml" />
+      <recent name="softuni.library.services.impl" />
+      <recent name="softuni.library.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="softuni.library.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Downloads\Library_Skeleton (1)\skeleton\src\main\java\softuni\library\models\entities" />
+      <recent name="E:\Downloads\Library_Skeleton (1)\skeleton\src\main\java\softuni\library\config" />
+      <recent name="E:\Downloads\Library_Skeleton (1)\skeleton\src\main\java\softuni\library\util" />
+      <recent name="$PROJECT_DIR$/src/main/java/softuni/library" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="skeleton" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="softuni.library.LibraryApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bfecdf9-17ad-443d-b02d-5a0b2ee00979" name="Default Changelist" comment="" />
+      <created>1605187352814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605187352814</updated>
+      <workItem from="1605187353920" duration="3565000" />
+      <workItem from="1605197963435" duration="5000" />
+      <workItem from="1605198903087" duration="939000" />
+      <workItem from="1605261683863" duration="641000" />
+      <workItem from="1605272424468" duration="172000" />
+      <workItem from="1606566196003" duration="31000" />
+      <workItem from="1606566233055" duration="14607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="110" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606568646160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="110" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606568646160" />
+    <state x="2959" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.28.1920.1080/0.0.1920.1080/3840.56.1280.1024@1920.28.1920.1080" timestamp="1605199066646" />
+    <state x="234" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1606576116636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="234" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606576116636" />
+    <state x="2213" y="290" key="#com.intellij.ide.util.MemberChooser/1920.28.1920.1080/0.0.1920.1080/3840.56.1280.1024@1920.28.1920.1080" timestamp="1605199118523" />
+    <state x="2138" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605187943804">
+      <screen x="1920" y="28" width="1920" height="1080" />
+    </state>
+    <state x="2138" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.28.1920.1080/0.0.1920.1080/3840.56.1280.1024@1920.28.1920.1080" timestamp="1605187943804" />
+    <state x="2188" y="340" key="FileChooserDialogImpl" timestamp="1605187968029">
+      <screen x="1920" y="28" width="1920" height="1080" />
+    </state>
+    <state x="2188" y="340" key="FileChooserDialogImpl/1920.28.1920.1080/0.0.1920.1080/3840.56.1280.1024@1920.28.1920.1080" timestamp="1605187968029" />
+    <state width="1493" height="379" key="GridCell.Tab.0.bottom" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="1493" height="379" key="GridCell.Tab.0.center" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="1493" height="379" key="GridCell.Tab.0.left" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="1493" height="379" key="GridCell.Tab.0.right" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="1493" height="379" key="GridCell.Tab.1.bottom" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="1493" height="379" key="GridCell.Tab.1.center" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="1493" height="379" key="GridCell.Tab.1.left" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="1493" height="379" key="GridCell.Tab.1.right" timestamp="1606581684795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606581684795" />
+    <state width="237" height="382" key="HiddenNamespacesPopup" timestamp="1606574815840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="237" height="382" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1606574815840" />
+    <state width="296" height="500" key="HiddenNamespacesPopup/1920.28.1920.1080/0.0.1920.1080/3840.56.1280.1024@1920.28.1920.1080" timestamp="1605199103235" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1606566331576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606566331576" />
+    <state x="591" y="299" width="354" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1606574726852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="299" width="354" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1606574726852" />
+    <state x="2179" y="375" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605187725038">
+      <screen x="1920" y="28" width="1920" height="1080" />
+    </state>
+    <state x="2179" y="375" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.28.1920.1080/0.0.1920.1080/3840.56.1280.1024@1920.28.1920.1080" timestamp="1605187725038" />
+  </component>
+</project>
